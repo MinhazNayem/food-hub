@@ -1,0 +1,100 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+    font-weight: 900;
+}
+.creating-color{
+    color: #0084ff;
+}
+.flexiable{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#0084ff, #42e7cc);
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+.lines{
+    margin-bottom: 10%;
+    margin-top: 3%;
+}
+.lines p{
+    margin-bottom: 10%;
+    padding-right: 40%;
+    margin-top: 5%;
+}
+.about-me{
+   background-image: url(images/Frame\ 57.jpg);
+}
+.up-down{
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+.recipies-area{
+    width: 80%;
+    margin: 0 auto ;
+}
+.new{
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+}
+.food{
+    box-shadow: 5px 5px 25px gray;
+    border-radius:30px;
+    padding-left: 30px;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 3%;
+    width: 25%;
+}
+#footer{
+    text-align: center;
+    background-color: black;
+    height: 250px;
+    color: white;
+}
+.set-up{
+    margin-left:5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-right: 10px;
+}
+#side{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 250px;
+    box-shadow: 10px 10px 30px;
+    height: 200px;
+    border-radius: 10px;   
+}
+#counter{
+   margin-bottom: 150px; 
+   width: 80%;
+   margin: 0 auto; 
+   padding-bottom: 100px;  
+}
+.counter-item{
+    padding-top: 30px;
+}
+
+
